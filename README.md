@@ -33,10 +33,11 @@ Data set provided by the client as a csv, which was downloaded and processed for
 2. **number of Efficient Trucks** Identify the count of the trucks classified as efficient to understand fleet reliability and potentials operation.
 
 
-### UDED SQL CODE
+### USED SQL CODE
 ``` SELECT COUNT AS TOTAL TRUCK DRIVER```
 
 ### REPORT
+Insert image of the report from saved work.
 
 ### RECOMMENDATION
 
