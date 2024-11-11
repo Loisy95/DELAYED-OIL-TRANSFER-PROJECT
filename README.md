@@ -18,10 +18,10 @@ The analysis covers;
 -Root cause Analysis; Diagnosing main delay contributors
 -Solution protocol: Recommendind solution, such as process optimixation and resource allocation
 
-###DATA SOURCE
+### DATA SOURCE
 Data set provided by the client as a csv, which was downloaded and processed for analysis
 
-###TOOLS
+### TOOLS
 1. Microsoft Excel: utilized for preliminary data correction and initial review of the data set
 2. SGL Server: Employed for data cleaning and in depth analysis to extract meaningful insights.
 3. Power bi: Used to visualized insights and provide detailed interactive report
