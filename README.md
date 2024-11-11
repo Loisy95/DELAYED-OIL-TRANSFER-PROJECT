@@ -5,6 +5,8 @@
 ### OBJECTIVES
 This project investigates the root causes of delays in the oil transfer process a stategic solution plan. Through data analysis of operational workforce and processefficiency, this projects seeks to identify trends and key areas for improvement
 
+---
+
 ### Scope
 The analysis covers;
 -current transfer and handling protocols
@@ -29,6 +31,14 @@ Data set provided by the client as a csv, which was downloaded and processed for
 ### EXPLORATORY DATA ANALYSIS
 1. **Total number of truck drivers**Determine the number of trucks drivers to assess if current staffing meets operational demands.
 2. **number of Efficient Trucks** Identify the count of the trucks classified as efficient to understand fleet reliability and potentials operation.
+
+
+### UDED SQL CODE
+``` SELECT COUNT AS TOTAL TRUCK DRIVER```
+
+### REPORT
+
+### RECOMMENDATION
 
 
 
