@@ -11,3 +11,17 @@ The analysis covers;
 -Staffing and equipment utilization patterns
 -Service delay patterns and external influencing factors
 -Operational bottlenecks and investment opportunity
+
+### Methodology
+-Data collection gathering logs, staffing data equipment status and service records
+-Analysisidentifying delay trends and correlating with operational factors
+-Root cause Analysis; Diagnosing main delay contributors
+-Solution protocol: Recommendind solution, such as process optimixation and resource allocation
+
+###DATA SOURCE
+Data set provided by the client as a csv, which was downloaded and processed for analysis
+
+###TOOLS
+1. Microsoft Excel: utilized for preliminary data correction and initial review of the data set
+2. SGL Server: Employed for data cleaning and in depth analysis to extract meaningful insights.
+3. Power bi: Used to visualized insights and provide detailed interactive report
