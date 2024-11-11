@@ -24,4 +24,11 @@ Data set provided by the client as a csv, which was downloaded and processed for
 ### TOOLS
 1. Microsoft Excel: utilized for preliminary data correction and initial review of the data set
 2. SGL Server: Employed for data cleaning and in depth analysis to extract meaningful insights.
-3. Power bi: Used to visualized insights and provide detailed interactive report
+3. Power bi: Used to visualized insights and provide detailed interactive report.
+
+### EXPLORATORY DATA ANALYSIS
+1. **Total number of truck drivers**Determine the number of trucks drivers to assess if current staffing meets operational demands.
+2. **number of Efficient Trucks** Identify the count of the trucks classified as efficient to understand fleet reliability and potentials operation.
+
+
+
